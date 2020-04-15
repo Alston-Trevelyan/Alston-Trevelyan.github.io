@@ -27,7 +27,7 @@
   <entry>
     <title>Hexo博客+Next主题深度优化与定制</title>
     <url>//%F0%9D%93%97%F0%9D%93%AE%F0%9D%94%81%F0%9D%93%B8-%F0%9D%93%93%F0%9D%93%B8%F0%9D%93%AC%F0%9D%93%BE%F0%9D%93%B6%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%B8%F0%9D%93%B7/%F0%9D%93%AB%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%B0-%F0%9D%93%AE%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AB%F0%9D%93%B5%F0%9D%93%B2%F0%9D%93%BC%F0%9D%93%B1/</url>
-    <content><![CDATA[<p>😄</p>
+    <content><![CDATA[<p>😄Welcome!!!</p>
 <a id="more"></a>
 <div class="tabs" id="hexo-documentation"><ul class="nav-tabs"><li class="tab active"><a href="#hexo-documentation-1"><i class="fa fa-fa fa-flag fa-fw""></i>搭建博客</a></li><li class="tab"><a href="#hexo-documentation-2"><i class="fa fa-fa fa-cogs fa-fw""></i>深度配置</a></li></ul><div class="tab-content"><div class="tab-pane active" id="hexo-documentation-1"><ol>
 <li><a href="../%F0%9D%93%96%F0%9D%93%AE%F0%9D%93%BD%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%B0%20%F0%9D%93%A2%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%BB%F0%9D%93%BD%F0%9D%93%AE%F0%9D%93%AD/%F0%9D%93%B1%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B5%F0%9D%93%B8-%F0%9D%94%80%F0%9D%93%B8%F0%9D%93%BB%F0%9D%93%B5%F0%9D%93%AD">Hello World</a></li>
@@ -95,9 +95,8 @@
     <url>//%F0%9D%93%AE%F0%9D%93%B6%F0%9D%93%B8%F0%9D%93%B3%F0%9D%93%B2%E4%BB%A3%E7%A0%81%E5%AF%B9%E7%85%A7%E8%A1%A8/</url>
     <content><![CDATA[<p>❤️❤️❤️</p>
 <a id="more"></a>
-<p><a href="/codes/Python3/emojis.py?raw=true">代码详见</a><br>
-<a href="/codes/Json/emojis.json?raw=true">json数据</a><br>
-<a href="/codes/Json/unavailable_emojis.json?raw=true">不可用的 <code>emoji</code> 代码的json数据</a></p>
+<p><a href="/codes/Json/emojis.json">json数据</a><br>
+<a href="/codes/Json/unavailable_emojis.json">不可用的 <code>emoji</code> 代码的json数据</a></p>
 <h2 id="People"><a class="header-anchor" href="#People">¶</a>People</h2>
 <p><span class='emoji' id='em_1'>😄 <code>:smile:</code> </span>  <span class='emoji' id='em_2'>😆 <code>:laughing:</code> </span>  <span class='emoji' id='em_3'>😊 <code>:blush:</code> </span>  <span class='emoji' id='em_4'>😃 <code>:smiley:</code> </span><br>
 <span class='emoji' id='em_5'>😏 <code>:smirk:</code> </span>  <span class='emoji' id='em_6'>😍 <code>:heart_eyes:</code> </span>  <span class='emoji' id='em_7'>😘 <code>:kissing_heart:</code> </span><br>
@@ -388,25 +387,23 @@
 <span class='emoji' id='em_846'>🔹 <code>:small_blue_diamond:</code> </span>  <span class='emoji' id='em_847'>🔸 <code>:small_orange_diamond:</code> </span>  <span class='emoji' id='em_848'>🔺 <code>:small_red_triangle:</code> </span><br>
 <span class='emoji' id='em_849'>🔻 <code>:small_red_triangle_down:</code> </span></p>
 <h2 id="Unavailable-Emojis-Code-😞"><a class="header-anchor" href="#Unavailable-Emojis-Code-😞">¶</a>Unavailable Emojis Code 😞</h2>
-<h3 id="People-v2"><a class="header-anchor" href="#People-v2">¶</a>People</h3>
-<p><img class="nofancybox" src="/images/unavailable_emojis/bowtie.png"><span class="un_em_1"> <code>:bowtie:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/simple_smile.png"><span class="un_em_2"> <code>:simple_smile:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/relaxed.png"><span class="un_em_3"> <code>:relaxed:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/neckbeard.png"><span class="un_em_4"> <code>:neckbeard:</code> </span><br>
-<img class="nofancybox" src="/images/unavailable_emojis/feelsgood.png"><span class="un_em_5"> <code>:feelsgood:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/finnadie.png"><span class="un_em_6"> <code>:finnadie:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/goberserk.png"><span class="un_em_7"> <code>:goberserk:</code> </span><br>
-<img class="nofancybox" src="/images/unavailable_emojis/godmode.png"><span class="un_em_8"> <code>:godmode:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/hurtrealbad.png"><span class="un_em_9"> <code>:hurtrealbad:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/rage1.png"><span class="un_em_10"> <code>:rage1:</code> </span><br>
-<img class="nofancybox" src="/images/unavailable_emojis/rage2.png"><span class="un_em_11"> <code>:rage2:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/rage3.png"><span class="un_em_12"> <code>:rage3:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/rage4.png"><span class="un_em_13"> <code>:rage4:</code> </span><br>
-<img class="nofancybox" src="/images/unavailable_emojis/suspect.png"><span class="un_em_14"> <code>:suspect:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/trollface.png"><span class="un_em_15"> <code>:trollface:</code> </span></p>
-<h3 id="Nature-v2"><a class="header-anchor" href="#Nature-v2">¶</a>Nature</h3>
-<p><img class="nofancybox" src="/images/unavailable_emojis/octocat.png"><span class="un_em_16"> <code>:octocat:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/squirrel.png"><span class="un_em_17"> <code>:squirrel:</code> </span></p>
-<h3 id="Symbols-v2"><a class="header-anchor" href="#Symbols-v2">¶</a>Symbols</h3>
-<p><img class="nofancybox" src="/images/unavailable_emojis/u5272.png"><span class="un_em_18"> <code>:u5272:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/u5408.png"><span class="un_em_19"> <code>:u5408:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/u55b6.png"><span class="un_em_20"> <code>:u55b6:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/u6307.png"><span class="un_em_21"> <code>:u6307:</code> </span><br>
-<img class="nofancybox" src="/images/unavailable_emojis/u6708.png"><span class="un_em_22"> <code>:u6708:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/u6709.png"><span class="un_em_23"> <code>:u6709:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/u7121.png"><span class="un_em_24"> <code>:u7121:</code> </span><br>
-<img class="nofancybox" src="/images/unavailable_emojis/u7533.png"><span class="un_em_25"> <code>:u7533:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/u7a7a.png"><span class="un_em_26"> <code>:u7a7a:</code> </span>  <img class="nofancybox" src="/images/unavailable_emojis/u7981.png"><span class="un_em_27"> <code>:u7981:</code> </span><br>
-<img class="nofancybox" src="/images/unavailable_emojis/shipit.png"><span class="un_em_28"> <code>:shipit:</code> </span></p>
-<h2 id="更多的Unicode表情"><a class="header-anchor" href="#更多的Unicode表情">¶</a>更多的Unicode表情</h2>
+<h2 id="People-v2"><a class="header-anchor" href="#People-v2">¶</a>People</h2>
+<p><img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/bowtie.png"><span class="un_em_1"> <code>:bowtie:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/simple_smile.png"><span class="un_em_2"> <code>:simple_smile:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/relaxed.png"><span class="un_em_3"> <code>:relaxed:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/neckbeard.png"><span class="un_em_4"> <code>:neckbeard:</code> </span><br>
+<img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/feelsgood.png"><span class="un_em_5"> <code>:feelsgood:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/finnadie.png"><span class="un_em_6"> <code>:finnadie:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/goberserk.png"><span class="un_em_7"> <code>:goberserk:</code> </span><br>
+<img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/godmode.png"><span class="un_em_8"> <code>:godmode:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/hurtrealbad.png"><span class="un_em_9"> <code>:hurtrealbad:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/rage1.png"><span class="un_em_10"> <code>:rage1:</code> </span><br>
+<img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/rage2.png"><span class="un_em_11"> <code>:rage2:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/rage3.png"><span class="un_em_12"> <code>:rage3:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/rage4.png"><span class="un_em_13"> <code>:rage4:</code> </span><br>
+<img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/suspect.png"><span class="un_em_14"> <code>:suspect:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/trollface.png"><span class="un_em_15"> <code>:trollface:</code> </span></p>
+<h2 id="Nature-v2"><a class="header-anchor" href="#Nature-v2">¶</a>Nature</h2>
+<p><img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/octocat.png"><span class="un_em_16"> <code>:octocat:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/squirrel.png"><span class="un_em_17"> <code>:squirrel:</code> </span></p>
+<h2 id="Symbols-v2"><a class="header-anchor" href="#Symbols-v2">¶</a>Symbols</h2>
+<p><img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/u5272.png"><span class="un_em_18"> <code>:u5272:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/u5408.png"><span class="un_em_19"> <code>:u5408:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/u55b6.png"><span class="un_em_20"> <code>:u55b6:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/u6307.png"><span class="un_em_21"> <code>:u6307:</code> </span><br>
+<img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/u6708.png"><span class="un_em_22"> <code>:u6708:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/u6709.png"><span class="un_em_23"> <code>:u6709:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/u7121.png"><span class="un_em_24"> <code>:u7121:</code> </span><br>
+<img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/u7533.png"><span class="un_em_25"> <code>:u7533:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/u7a7a.png"><span class="un_em_26"> <code>:u7a7a:</code> </span>  <img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/u7981.png"><span class="un_em_27"> <code>:u7981:</code> </span><br>
+<img class="nofancybox" src="/assets/posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/shipit.png"><span class="un_em_28"> <code>:shipit:</code> </span></p>
+<h1>更多的Unicode表情</h1>
 <p><a href="https://www.emojicopy.com/" target="_blank" rel="noopener">Copy</a></p>
 ]]></content>
       <tags>
-        <tag>emoji</tag>
-        <tag>code</tag>
         <tag>writing</tag>
       </tags>
   </entry>
@@ -436,9 +433,9 @@
         <category>hexo</category>
       </categories>
       <tags>
-        <tag>emoji</tag>
         <tag>writing</tag>
         <tag>hexo</tag>
+        <tag>emoji</tag>
       </tags>
   </entry>
 </search>

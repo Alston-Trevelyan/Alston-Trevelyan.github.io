@@ -45,7 +45,6 @@ def write():
         emojis = json.load(js)
     md = open(".\\emoji代码对照表.md", 'w', encoding="utf-8")
     content = "---\ntitle: emoji代码对照表\ndate: 2020-03-29 13:17:16\ntags:\n  - writing\n---\n\n:heart::heart::heart:\n<!-- more -->\n\n"
-    content += "[代码详见](/codes/Python3/emojis.py)\n"
     content += "[json数据](/codes/Json/emojis.json)\n"
     content += '[不可用的 `emoji` 代码的json数据](/codes/Json/unavailable_emojis.json)\n\n'
     id = 1
@@ -65,7 +64,7 @@ def write():
         content += '\n## {0}\n'.format(type)
         count = 0
         for emoji, code in items.items():
-            content += '<img class="nofancybox" src="{0}"><span class="un_em_{1}"> `{2}` </span>  '.format('/images/unavailable_emojis/' + emoji.replace(":", '') + '.png', id, code)
+            content += '<img class="nofancybox" src="{0}"><span class="un_em_{1}"> `{2}` </span>  '.format('/_posts/𝓮𝓶𝓸𝓳𝓲代码对照表/images/𝓾𝓷𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮_𝓮𝓶𝓸𝓳𝓲𝓼/' + emoji.replace(":", '') + '.png', id, code)
             id += 1
             if count == 3:
                 content += '\n'
