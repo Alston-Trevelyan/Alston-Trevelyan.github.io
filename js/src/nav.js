@@ -18,7 +18,7 @@ function check(list){
 function postNav(path){
 	var breadcrumbs = path.split("/").slice(1, -1);
 	breadcrumbs = check(breadcrumbs);
-	var nav = "<ul class='breadcrumb'>";
+	var nav = "<div class='breadcrumbs'><div class='el-breadcrumb'><li><a href='/'>首页</a></li>";
 	for (var i = 0; i < breadcrumbs.length; i++) {
 	  nav += "<li>";
 	  var name = decrypt(breadcrumbs[i]);
@@ -27,6 +27,6 @@ function postNav(path){
 	  } else if (i == breadcrumbs.length - 1){nav += name;}
 	  nav += "</li>";
 	}
-	nav += "</ul>";
+	nav += "</div></div>";
 	return nav;
 }

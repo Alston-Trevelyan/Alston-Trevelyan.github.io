@@ -3,17 +3,15 @@
   /* code */
   var initCopyCode = function(){
     var copyHtml = '';
-    copyHtml += '<button class="btn-copy" data-clipboard-snippet="">';
+    copyHtml += '<div class="code-buttons"><button class="code-btn btn-copy" data-clipboard-snippet="">';
     copyHtml += '  <i class="fa fa-clipboard"></i><span>copy</span>';
-    copyHtml += '</button>';
-    $(".highlight .code pre").before(copyHtml);
+    copyHtml += '</button></div>';
+    $(".highlight").prepend(copyHtml);
     var clipboard = new ClipboardJS('.btn-copy', {
         target: function(trigger) {
-            return trigger.nextElementSibling;
+            return trigger.parentNode.nextElementSibling;
         }
     });
   };
   initCopyCode();
 }(window, document);
-
-

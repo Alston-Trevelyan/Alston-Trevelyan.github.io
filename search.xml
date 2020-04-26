@@ -6,18 +6,196 @@
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a class="header-anchor" href="#Quick-Start">¶</a>Quick Start</h2>
 <h3 id="Create-a-new-post"><a class="header-anchor" href="#Create-a-new-post">¶</a>Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:bash</span></figcaption><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
 <h3 id="Run-server"><a class="header-anchor" href="#Run-server">¶</a>Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:bash</span></figcaption><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
 <h3 id="Generate-static-files"><a class="header-anchor" href="#Generate-static-files">¶</a>Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:bash</span></figcaption><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
 <h3 id="Deploy-to-remote-sites"><a class="header-anchor" href="#Deploy-to-remote-sites">¶</a>Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:bash</span></figcaption><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Hello Hexo World!!!</title>
+    <url>//%F0%9D%93%97%F0%9D%93%AE%F0%9D%94%81%F0%9D%93%B8-%F0%9D%93%93%F0%9D%93%B8%F0%9D%93%AC%F0%9D%93%BE%F0%9D%93%B6%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%B8%F0%9D%93%B7/%F0%9D%93%96%F0%9D%93%AE%F0%9D%93%BD%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%B0%20%F0%9D%93%A2%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%BB%F0%9D%93%BD%F0%9D%93%AE%F0%9D%93%AD/%F0%9D%93%B1%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B5%F0%9D%93%B8-%F0%9D%93%B1%F0%9D%93%AE%F0%9D%94%81%F0%9D%93%B8-%F0%9D%94%80%F0%9D%93%B8%F0%9D%93%BB%F0%9D%93%B5%F0%9D%93%AD/</url>
+    <content><![CDATA[<blockquote class="blockquote-center">本文仅供Hexo博客Next主题的Windows用户参考：</blockquote>
+<a id="more"></a>
+<h2 id="博客详情："><a class="header-anchor" href="#博客详情：">¶</a>博客详情：</h2>
+<div class="note info"><p><a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="noopener">Hexo</a> 是一个快速、简洁且高效的博客框架。 </br> Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。</p></div>
+</br>
+<p>详情还可以查看<a href="http://theme-next.iissnan.com/" target="_blank" rel="noopener">Next主题官方网站</a>:</p>
+<div class="note primary"><h3 id="Next文档"><a class="header-anchor" href="#Next文档">¶</a>Next文档</h3>
+<ol>
+<li>| <a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="noopener">初级配置</a></li>
+<li>| <a href="http://theme-next.iissnan.com/theme-settings.html" target="_blank" rel="noopener">进阶配置</a></li>
+<li>| <a href="http://theme-next.iissnan.com/third-party-services.html" target="_blank" rel="noopener">第三方服务集成</a></li>
+<li>| <a href="http://theme-next.iissnan.com/tag-plugins.html" target="_blank" rel="noopener">内建标签</a></li>
+</ol></div>
+</br>
+<hr>
+<h2 id="初步搭建博客"><a class="header-anchor" href="#初步搭建博客">¶</a>初步搭建博客</h2>
+<h3 id="准备-下载"><a class="header-anchor" href="#准备-下载">¶</a>准备 &amp; 下载</h3>
+<p>开始之前，你需要下载这些东西：</p>
+<div class="note success"><p>这些是一定要下载的！！！</p></div>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Name</th>
+<th style="text-align:center">Links</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Git</td>
+<td style="text-align:center">Website: <a href="https://git-scm.com/download/" target="_blank" rel="noopener">Downloading Git</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Node.js</td>
+<td style="text-align:center">Website: <a href="https://nodejs.org/en/download/" target="_blank" rel="noopener">Downloading Node.js</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Hexo</td>
+<td style="text-align:center">Website: <a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">Downloading Hexo</a></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>安装后，检测Node.js、npm是否安装成功：<br>
+Win + R键打开运行界面，输入cmd并Enter<br>
+在命令行中分别输入：</li>
+</ul>
+<figure class="highlight shell"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:shell</span></figcaption><table><tr><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure>
+<ul>
+<li>输出如下：</li>
+</ul>
+<img class="asset_img" src="检查node.png" alt='检查'></img>
+<ul>
+<li>Tips:</li>
+</ul>
+<p>1.你可以用npm下载hexo:</p>
+<figure class="highlight shell"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:shell</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-cli -g</span></span><br></pre></td></tr></table></figure>
+<p>2.Git 也可以使用npm下载</p>
+<figure class="highlight shell"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:shell</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> npm install git</span></span><br></pre></td></tr></table></figure>
+<h4 id="这些是我所下载的插件："><a class="header-anchor" href="#这些是我所下载的插件：">¶</a>这些是我所下载的插件：</h4>
+<div class="note success"><p>根据喜好自由下载<br>
+暂不提供相关插件配置方法<br>
+请自行上网搜索配置</p></div>
+<figure class="highlight shell"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:shell</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-generator-feed</span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install git</span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install gulp -g  <span class="comment"># gulp压缩</span></span></span><br><span class="line"><span class="meta">  $</span><span class="bash"> npm install gulp-htmlclean gulp-htmlmin gulp-minify-css gulp-uglify gulp-imagemin --save  <span class="comment"># 同时需要安装五个模块</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-deployer-git --save</span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install --save hexo-helper-live2d  <span class="comment"># 看板娘</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-asset-image --save  <span class="comment"># about images</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-generator-search --save  <span class="comment"># 搜索功能</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install --save canvas-nest.js  <span class="comment"># 背景网状效果</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-generator-sitemap --save  <span class="comment"># 站点地图</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-generator-baidu-sitemap --save  <span class="comment"># 百度站点地图</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-generator-seo-friendly-sitemap --save</span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-filter-github-emojis --save  <span class="comment"># emojis 表情使用</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-renderer-marked-lazy --save</span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-symbols-count-time --save  <span class="comment"># 统计阅读时间...</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install image-size  <span class="comment"># about images</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install clipboard --save  <span class="comment"># 复制代码功能</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install --save hexo-blog-encrypt  <span class="comment"># 文章加密</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-generator-index --save</span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-tag-dplayer  <span class="comment"># 播放视频</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-tag-aplayer  <span class="comment"># 播放音乐</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-renderer-markdown-it --save  <span class="comment"># 添加脚注</span></span></span><br><span class="line"><span class="meta">	 $</span><span class="bash"> npm uninstall hexo-renderer-marked --save  <span class="comment"># 需要先卸载 Hexo 默认自带的 Markdown 渲染器</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-recommended-posts --save  <span class="comment"># 文章推荐</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-tag-cloud  <span class="comment"># 标签云</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-generator-index-pin-top --save  <span class="comment"># 博文置顶</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-git-backup --save  <span class="comment"># 备份工具 -- 保存静态网站</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-all-minifier --save <span class="comment"># 压缩工具</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-tag-echarts --save  <span class="comment"># echarts动态图表工具</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-admin --save <span class="comment"># 方便后台登录管理hexo博客，编写文章。</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install bootstrap</span></span><br><span class="line"></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install hexo-reference --save  <span class="comment"># 文章注脚</span></span></span><br></pre></td></tr></table></figure>
+<h3 id="连接至Github"><a class="header-anchor" href="#连接至Github">¶</a>连接至Github</h3>
+<p>以上必须下载的都准备好以后：</p>
+<h4 id="新建库"><a class="header-anchor" href="#新建库">¶</a>新建库</h4>
+<ul>
+<li>你需要注册一个<a href="https://github.com/" target="_blank" rel="noopener">Github账号</a> 然后新建一个库；<br>
+鼠标点击右上角你的头像，在显示的菜单栏中点击&quot;Your repository&quot;<br>
+<a href="https://github.com/new" target="_blank" rel="noopener">链接</a></li>
+</ul>
+<img class="asset_img" src="repo.png" alt='库'></img>
+<p>点击&quot;new&quot;<br>
+输入你的库名</p>
+<div class="note warning"><p>库的名字命名为： 用户名 + ‘<a href="http://github.io" target="_blank" rel="noopener">github.io</a>’:</p></div>
+<img class="asset_img" src="GitHub1.png" alt='创建库'></img>
+</br>
+<h4 id="配置Github"><a class="header-anchor" href="#配置Github">¶</a>配置Github</h4>
+<ul>
+<li>然后在博客根目录(你的博客文件要存放的位置，我这里是F:/test/,{不建议保存在C盘})下鼠标右击打开Git Bash，</li>
+</ul>
+<img class="asset_img" src="timg.jpg" alt='GitBash'></img>
+<p>键入以下命令：</p>
+<figure class="highlight shell"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:shell</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> git config --global user.name <span class="string">"Your Github's account name"</span></span></span><br><span class="line"><span class="meta">$</span><span class="bash"> git config --global user.email<span class="string">"Your Github's account email"</span></span></span><br></pre></td></tr></table></figure>
+<img class="asset_img" src="配置.png" alt='配置'></img>
+<div class="note primary"><h4 id="声明"><a class="header-anchor" href="#声明">¶</a>声明:</h4>
+<p>站点配置文件：在你的博客根目录下的_config.yml,我这里是&quot;F:\test_config.yml&quot;<br>
+主题配置文件: 博客根目录下themes文件夹内的_config.yml,我这里是&quot;F:\test\themes_config.yml&quot;</p></div>
+<p>如图：</p>
+<img class="asset_img" src="blog1.png" alt='站点配置文件'></img>
+<img class="asset_img" src="blog2.png" alt='主题配置文件'></img>
+</br>
+<h4 id="创建-ssh密钥文件："><a class="header-anchor" href="#创建-ssh密钥文件：">¶</a>创建.ssh密钥文件：</h4>
+<figure class="highlight shell"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:shell</span></figcaption><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C"Your Github's account email"</span><br></pre></td></tr></table></figure>
+<p>接着连续按三次Enter键，你可以在C:/Users/Your User Name/.ssh(默认地址) 找到它</p>
+<img class="asset_img" src="ssh.key.png" alt='.ssh。key'></img>
+<p>然后在.ssh文件夹中找到id_rsa.pub,复制它。</p>
+<img class="asset_img" src="ssh.png" alt='.ssh'></img>
+<p>Ps： 请不要将id_rsa文件随意转发给他人查看,这个是私人密钥</p>
+</br>
+<ul>
+<li>打开<a href="https://github.com/settings/keys" target="_blank" rel="noopener">GitHub_Settings_keys</a>页面，新建new SSH Key<br>
+Title为标题，任意填即可，将刚刚复制的id_rsa.pub内容粘贴进去，最后点击Add SSH key。<br>
+注意要将id_rsa.pub文件移至窗口，网页会打开一个新界面，将上面的代码复制下来，再回到原网址粘贴即可</li>
+</ul>
+<img class="asset_img" src="add_ssh.png" alt='添加.ssh密钥'></img>
+<pre><code>在Git Bash中检测GitHub公钥设置是否成功，输入:
+</code></pre>
+<figure class="highlight bash"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:bash</span></figcaption><table><tr><td class="code"><pre><span class="line">$ ssh git@github.com</span><br></pre></td></tr></table></figure>
+<img class="asset_img" src="ssh检查.png" alt='.ssh文件检查'></img>
+<p>如上，出现了&quot;Hi, …&quot;则说明成功。</p>
+<div class="note default"><h3 id="提示"><a class="header-anchor" href="#提示">¶</a>提示</h3>
+<ul>
+<li>这里之所以设置GitHub密钥原因是，通过非对称加密的公钥与私钥来完成加密，公钥放置在GitHub上，私钥放置在自己的电脑里。</li>
+<li>GitHub要求每次推送代码都是合法用户，所以每次推送都需要输入账号密码验证推送用户是否是合法用户，为了省去每次输入密码的步骤，采用了ssh:</li>
+<li>当你推送的时候，git就会匹配你的私钥跟GitHub上面的公钥是否是配对的，若是匹配就认为你是合法用户，则允许推送。这样可以保证每次的推送都是正确合法的。</li>
+</ul></div>
+</br>
+<h3 id="初始化博客"><a class="header-anchor" href="#初始化博客">¶</a>初始化博客:</h3>
+<p>在博客根目录下鼠标右键Git Bash<br>
+使用npm命令安装Hexo，输入：</p>
+<figure class="highlight bash"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:bash</span></figcaption><table><tr><td class="code"><pre><span class="line">$ npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
+<p>这个安装时间较长耐心等待，安装完成后，初始化我们的博客，输入：</p>
+<figure class="highlight bash"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:bash</span></figcaption><table><tr><td class="code"><pre><span class="line">$ hexo init</span><br></pre></td></tr></table></figure>
+<img class="asset_img" src="hexo_init.png" alt='创建本地博客'></img>
+<p>接着，在站点配置文件中加入：</p>
+<figure class="highlight markdown"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:markdown</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="section"># Deployment</span></span><br><span class="line"><span class="section">## Docs: https://hexo.io/docs/deployment.html</span></span><br><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repo: git@github.com:Odes-YMond/Odes-YMond.github.io.git</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure>
+<p>注意，这里的命令都是作用在刚刚创建的Blog文件夹中。<br>
+这时候为了检测我们的网站雏形，分别按顺序输入以下三条命令：</p>
+<figure class="highlight bash"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:bash</span></figcaption><table><tr><td class="code"><pre><span class="line">hexo new test_my_site</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+<p>或者可以输入:</p>
+<figure class="highlight bash"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:bash</span></figcaption><table><tr><td class="code"><pre><span class="line">$ hexo new test_my_site &amp;&amp; hexo g &amp;&amp; hexo s</span><br></pre></td></tr></table></figure>
+<p>这些命令在后面作介绍，完成后，打开浏览器输入地址：</p>
+<p><a href="localhost:4000">localhost:4000</a></p>
+<div class="note default"><p>这个是通过hexo s命令才能查看，而且更新只有自己看得到，<br>
+键入hexo d则会部署更新到你的博客，其他人可查看。</p></div>
+<p>可以看出我们写出第一篇博客:</p>
+<ul>
+<li>同时你也可以输入网址：<a href="https://xn--onq9kk9houaf80ajodl6ap21cn83afa79lg55e" target="_blank" rel="noopener">https://你的库名以查看自己的博客</a>，这是面向公众的。<br>
+若你要核实一遍你的网址名：
+<ol>
+<li>进入你的库;</li>
+<li>点击Settings,进入Options界面;</li>
+</ol>
+</li>
+</ul>
+<img class="asset_img" src="setting.png" alt='设置查看'></img>
+<ol start="3">
+<li>一直往下拉，直至出现Github Pages界面，上面出现的网址就是你的博客网址了,</li>
+</ol>
+<img class="asset_img" src="page.png" alt='网址'></img>
+<div class="note danger"><p>若没有出现相应的，说明你的博客没有同Github连接;<br>
+请自行摸索解决！！！</p></div>
+<h3 id="现在来介绍常用的Hexo命令"><a class="header-anchor" href="#现在来介绍常用的Hexo命令">¶</a>现在来介绍常用的Hexo命令:</h3>
+<figure class="highlight bash"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:bash</span></figcaption><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">$ npm install hexo -g  <span class="comment">#安装Hexo</span></span><br><span class="line"></span><br><span class="line">$ npm update hexo -g  <span class="comment">#升级</span></span><br><span class="line"></span><br><span class="line">$ hexo init  <span class="comment">#初始化博客</span></span><br><span class="line"></span><br><span class="line">命令简写:</span><br><span class="line"></span><br><span class="line">$ hexo n  <span class="string">"我的博客"</span> == hexo new  <span class="string">"我的博客"</span>  <span class="comment">#新建文章</span></span><br><span class="line"></span><br><span class="line">$ hexo g == hexo generate  <span class="comment"># 生成</span></span><br><span class="line"></span><br><span class="line">$ hexo s == hexo server  <span class="comment"># 启动服务预览</span></span><br><span class="line"></span><br><span class="line">$ hexo d == hexo deploy  <span class="comment"># 部署到你的博客，更新对外公共的博客</span></span><br><span class="line"></span><br><span class="line">$ hexo b == hexo back  <span class="comment"># 为你的博客存档</span></span><br><span class="line">	$ git <span class="built_in">clone</span> -b hexo git@github.com:Odes-YMond/Odes-YMond.github.io.git  <span class="comment"># 备份下载</span></span><br><span class="line"></span><br><span class="line">$ hexo server  <span class="comment">#Hexo会监视文件变动并自动更新，无须重启服务器</span></span><br><span class="line"></span><br><span class="line">$ hexo server -s  <span class="comment">#静态模式</span></span><br><span class="line"></span><br><span class="line">$ hexo server -p 5000  <span class="comment">#更改端口</span></span><br><span class="line"></span><br><span class="line">$ hexo server -i 192.168.1.1  <span class="comment">#自定义 IP</span></span><br><span class="line"></span><br><span class="line">$ hexo clean  <span class="comment">#清除缓存，若是网页正常情况下可以忽略这条命令</span></span><br><span class="line"></span><br><span class="line">使用<span class="string">" &amp;&amp; "</span>可以将Hexo命令同行衔接起来使用:</span><br><span class="line">一键部署：</span><br><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; gulp (hexo d &amp;&amp; hexo b) &amp;&amp; hexo s --debug</span><br></pre></td></tr></table></figure>
+<p>刚刚的三个命令依次是新建一篇博客文章、生成网页、在本地预览的操作。</p>
+<figure class="highlight bash"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:bash</span></figcaption><table><tr><td class="code"><pre><span class="line">../blog/themes/next/<span class="built_in">source</span>/css/_common/components/third-party/gitment.styl  <span class="comment"># 评论界面设置</span></span><br></pre></td></tr></table></figure>
+<h4 id="post-md-page-md"><a class="header-anchor" href="#post-md-page-md">¶</a><a href="http://post.md" target="_blank" rel="noopener">post.md</a> &amp;&amp; <a href="http://page.md" target="_blank" rel="noopener">page.md</a></h4>
+<ul>
+<li><a href="http://xn--post-kf5fk32xn9rjqh.md" target="_blank" rel="noopener">设置这个post.md</a> 在Git Bash创建新博文时会自动添加这些代码进去:</li>
+</ul>
+<figure class="highlight plain"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:plain</span></figcaption><table><tr><td class="code"><pre><span class="line">hexo new post&#39;s_name</span><br></pre></td></tr></table></figure>
+<br>
+* 同理：设置这个post.md文件会在添加菜单新页面时添加文件里的代码进去:
+<figure class="highlight plain"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:plain</span></figcaption><table><tr><td class="code"><pre><span class="line">hexo new page page&#39;s_name</span><br></pre></td></tr></table></figure>
+<p><a href="/hello-hexo-world2">MORE</a></p>
+<p>快捷键 <code>Ctrl + D</code> 来收藏本页</p>
+]]></content>
+      <categories>
+        <category>博客搭建</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hexo Documentation</title>
@@ -53,7 +231,7 @@
 <h2 id="动态背景图片插件jquery-backstretch"><a class="header-anchor" href="#动态背景图片插件jquery-backstretch">¶</a>动态背景图片插件<code>jquery-backstretch</code></h2>
 <p><code>jquery-backstretch</code>是一款简单的jQuery插件，可以用来设置动态的背景图片，以下是官方网站的介绍。</p>
 <blockquote><p>A simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element.</p>
-<footer><strong>官网</strong><cite><a href="https://www.jquery-backstretch.com/" target="_blank" rel="noopener">Welcome to backstretch</a></cite></footer></blockquote>
+<footer><strong>官网</strong><cite><a href="https://www.jquery-backstretch.com/" target="_blank" rel="noopener">Welcome to Backstretch</a></cite></footer></blockquote>
 <p>可以直接在页面中引入该插件的cdn来调用函数, 也可以直接下载下来食用<br>
 <a href="https://www.jquery-backstretch.com/" target="_blank" rel="noopener">官方地址</a><br>
 <a href="https://github.com/jquery-backstretch/jquery-backstretch" target="_blank" rel="noopener">Github源码</a><br>
@@ -61,37 +239,36 @@
 <h2 id="jquery-backstretch的使用方法"><a class="header-anchor" href="#jquery-backstretch的使用方法">¶</a>jquery-backstretch的使用方法</h2>
 <h3 id="引入该插件的cdn"><a class="header-anchor" href="#引入该插件的cdn">¶</a>引入该插件的cdn</h3>
 <p>在<code>themes\next\layout\_layout.swig</code> <code>&lt;/body&gt;&lt;/html&gt;</code>标签前引入该背景图片插件的cdn：</p>
-<figure class="highlight html"><figcaption><span>themes\next\layout\_layout.swig</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!-- 图片轮播js文件cdn --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">"https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- 自定义的js文件 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">type</span>=<span class="string">"text/javascript"</span> <span class="attr">src</span>=<span class="string">"/js/src/background.js"</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight html"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:html</span>   <i class="fa fa-file-code-o" aria-hidden="true"></i>:<span>themes\next\layout\_layout.swig</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!-- 图片轮播js文件cdn --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">"https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- 自定义的js文件 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">type</span>=<span class="string">"text/javascript"</span> <span class="attr">src</span>=<span class="string">"/js/src/background.js"</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure>
 <p>如果你已下载 <code>jquery.backstretch.min.js</code> 并放到 <code>themes\next\source\js\src</code> 下, 你可以这样更改代码：</p>
-<figure class="highlight diff"><figcaption><span>themes\next\layout\_layout.swig</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="deletion">- &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"&gt;&lt;/script&gt;</span></span><br><span class="line"><span class="addition">+ &lt;script src="/js/src/jquery.backstretch.min.js"&gt;&lt;/script&gt;</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight diff"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:diff</span>   <i class="fa fa-file-code-o" aria-hidden="true"></i>:<span>themes\next\layout\_layout.swig</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="deletion">- &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"&gt;&lt;/script&gt;</span></span><br><span class="line"><span class="addition">+ &lt;script src="/js/src/jquery.backstretch.min.js"&gt;&lt;/script&gt;</span></span><br></pre></td></tr></table></figure>
 <p>需要注意的是，我们要引入的插件cdn，都需要在自定义的js文件 <code>background.js</code> 之前引入才行！否则，插件会在访问页面时无法生效，可以在浏览器的控制台看到报错。</p>
 <h3 id="调用-backstretch-函数"><a class="header-anchor" href="#调用-backstretch-函数">¶</a>调用 <code>backstretch</code> 函数</h3>
 <p>在 <code>themes\next\source\js\src\background.js</code> (需新建)中添加如下代码：</p>
-<figure class="highlight javascript"><figcaption><span>themes\next\source\js\src\background.js</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="comment">/* 轮播背景图片 */</span></span><br><span class="line">$(<span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    $.backstretch([  </span><br><span class="line">          <span class="string">"/images/background/saber1.jpg"</span>,</span><br><span class="line">          <span class="string">"/images/background/saber2.jpg"</span>,</span><br><span class="line">          <span class="string">"/images/background/bg1.jpg"</span></span><br><span class="line">    ], &#123; <span class="attr">duration</span>: <span class="number">60000</span>, <span class="attr">fade</span>: <span class="number">1500</span> &#125;);  </span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>
+<figure class="highlight javascript"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:javascript</span>   <i class="fa fa-file-code-o" aria-hidden="true"></i>:<span>themes\next\source\js\src\background.js</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="comment">/* 轮播背景图片 */</span></span><br><span class="line">$(<span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    $.backstretch([  </span><br><span class="line">          <span class="string">"/images/background/saber1.jpg"</span>,</span><br><span class="line">          <span class="string">"/images/background/saber2.jpg"</span>,</span><br><span class="line">          <span class="string">"/images/background/bg1.jpg"</span></span><br><span class="line">    ], &#123; <span class="attr">duration</span>: <span class="number">60000</span>, <span class="attr">fade</span>: <span class="number">1500</span> &#125;);  </span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>
 <p>这里可以随意添加你想要轮播的图片，但要确保图片路径是正确的，比如我的背景图片就存放在站点根目录下的 <code>images/background/</code> 目录下。</p>
 <p>然后 <code>duration</code> 指的是轮换图片的时间，<strong>单位是毫秒</strong>，也就是说这里的代码表示一分钟就轮换到下一张图片；</p>
 <p><code>fade</code> 指的是轮换图片时会有个渐进渐出的动作，而这个过程需要花费的时间<strong>单位也是毫秒</strong>，如果不加上这个参数，就表示离开轮换成下一张图片。</p>
 <p>注意这里的 <code>$.backstretch</code> 指的是对整个页面设置背景图片，我们也可以专门给某个元素设置背景图片，如下：</p>
 <p>你可以在 <code>background.js</code> 中新增相应元素的代码</p>
-<figure class="highlight javascript"><figcaption><span>themes\next\source\js\src\background.js</span></figcaption><table><tr><td class="code"><pre><span class="line">$(<span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    $(<span class="string">".class"</span>).backstretch([<span class="string">"/images/background/bg1.jpg"</span>]);  </span><br><span class="line">    $(<span class="string">".class"</span>).backstretch([<span class="string">"/images/background/bg2.jpg"</span>]);  </span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>
+<figure class="highlight javascript"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:javascript</span>   <i class="fa fa-file-code-o" aria-hidden="true"></i>:<span>themes\next\source\js\src\background.js</span></figcaption><table><tr><td class="code"><pre><span class="line">$(<span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    $(<span class="string">".class"</span>).backstretch([<span class="string">"/images/background/bg1.jpg"</span>]);  </span><br><span class="line">    $(<span class="string">".class"</span>).backstretch([<span class="string">"/images/background/bg2.jpg"</span>]);  </span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>
 <p>如果只有一张图片，就没必要设置 <code>duration</code> 和 <code>fade</code> 参数了。</p>
 <h3 id="为背景图片设置样式"><a class="header-anchor" href="#为背景图片设置样式">¶</a>为背景图片设置样式</h3>
 <p>虽然我们设置好了背景图片，但如果页面的许多元素是不透明的，背景图片可能并不能很好地被看见，所以我们可以对背景图片和其他的页面元素进行设置样式。</p>
 <p>首先为背景图片设置透明度，因为有的图片颜色比较深厚，而页面多为白色，然后造成喧宾夺主的感觉。</p>
-<figure class="highlight css"><figcaption><span>themes\next\source\custom\custom.styl</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="comment">/* 背景图片透明度 */</span></span><br><span class="line"><span class="selector-class">.backstretch</span> &#123;</span><br><span class="line">    <span class="attribute">opacity</span>: .<span class="number">75</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight css"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:css</span>   <i class="fa fa-file-code-o" aria-hidden="true"></i>:<span>themes\next\source\custom\custom.styl</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="comment">/* 背景图片透明度 */</span></span><br><span class="line"><span class="selector-class">.backstretch</span> &#123;</span><br><span class="line">    <span class="attribute">opacity</span>: .<span class="number">75</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <p>接下来设置页面元素透明度，需要注意的是，如果我们在主题配置文件中启用了搜索功能，那么就不能简单粗暴地直接将整个页面都设置透明度，这会导致搜索框失效，无法正常使用。原因是因为搜索框是通过jQuery临时添加的，如果整个页面都设置了透明度，会导致搜索框的 <code>z-index</code> 失效而无法触发点击事件。</p>
-<figure class="highlight css"><figcaption><span>themes\next\source\custom\custom.styl</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="comment">/* 页面透明度 */</span></span><br><span class="line"><span class="selector-class">.content-wrap</span>, <span class="selector-class">.sidebar</span> &#123;</span><br><span class="line">    <span class="attribute">opacity</span>: .<span class="number">9</span> <span class="meta">!important</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.header-inner</span> &#123;</span><br><span class="line">    <span class="attribute">background</span>: <span class="built_in">rgba</span>(<span class="number">255</span>, <span class="number">255</span>, <span class="number">255</span>, <span class="number">0.9</span>) <span class="meta">!important</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight css"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:css</span>   <i class="fa fa-file-code-o" aria-hidden="true"></i>:<span>themes\next\source\custom\custom.styl</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="comment">/* 页面透明度 */</span></span><br><span class="line"><span class="selector-class">.content-wrap</span>, <span class="selector-class">.sidebar</span> &#123;</span><br><span class="line">    <span class="attribute">opacity</span>: .<span class="number">9</span> <span class="meta">!important</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.header-inner</span> &#123;</span><br><span class="line">    <span class="attribute">background</span>: <span class="built_in">rgba</span>(<span class="number">255</span>, <span class="number">255</span>, <span class="number">255</span>, <span class="number">0.9</span>) <span class="meta">!important</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <h2 id="代码"><a class="header-anchor" href="#代码">¶</a>代码</h2>
 <p>为了方便我写了个 <code>Python3</code> 的代码来一键帮我完成上述步骤，你可以在<a href="/codes/Python3/background.py?raw=true">这里</a>下载</p>
-<div class="fold_code"><div class="fold_hider"><button class="close hider_title">Code</button></div><div class="fold">
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># -*- coding:utf-8 -*-</span></span><br><span class="line"><span class="keyword">import</span> os</span><br><span class="line"><span class="keyword">import</span> sys</span><br><span class="line"><span class="keyword">import</span> time</span><br><span class="line"></span><br><span class="line"><span class="string">'''</span></span><br><span class="line"><span class="string">@Author: Alston Trevelyan</span></span><br><span class="line"><span class="string">@Description: This is a program to get your backgrounds.</span></span><br><span class="line"><span class="string">'''</span></span><br><span class="line">sysPath = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))</span><br><span class="line">jsPath = os.path.join(sysPath, <span class="string">"themes"</span>, <span class="string">'next'</span>, <span class="string">"source"</span>, <span class="string">"js"</span>, <span class="string">"src"</span>, <span class="string">"background.js"</span>)</span><br><span class="line">background_path = os.path.join(sysPath, <span class="string">"themes"</span>, <span class="string">'next'</span>, <span class="string">"source"</span>, <span class="string">"images"</span>, <span class="string">"background"</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 设置参数</span></span><br><span class="line">duration = sys.argv[<span class="number">1</span>] <span class="keyword">if</span> len(sys.argv) &gt;= <span class="number">2</span> <span class="keyword">else</span> <span class="number">60000</span></span><br><span class="line">fade = sys.argv[<span class="number">2</span>] <span class="keyword">if</span> len(sys.argv) &gt;= <span class="number">3</span> <span class="keyword">else</span> <span class="number">1500</span></span><br><span class="line"></span><br><span class="line">jsCode = <span class="string">"/* 轮播背景图片 */\n$(function () &#123;\n\t$.backstretch([\n"</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> root, dirs, files <span class="keyword">in</span> os.walk(background_path):</span><br><span class="line">  files = sorted(files, key=<span class="keyword">lambda</span> file: time.strftime(<span class="string">"%Y-%m-%d %H:%M:%S"</span>, time.localtime(os.path.getctime(os.path.join(root, file)))))</span><br><span class="line">  <span class="keyword">for</span> file <span class="keyword">in</span> files:</span><br><span class="line">    <span class="keyword">if</span> os.path.splitext(file)[<span class="number">-1</span>].lower() <span class="keyword">in</span> [<span class="string">".jpg"</span>, <span class="string">".png"</span>, <span class="string">".jpeg"</span>]:</span><br><span class="line">      jsCode += <span class="string">'\t\t"&#123;0&#125;",\n'</span>.format(os.path.join(root, file).replace(os.path.join(sysPath, <span class="string">"themes"</span>, <span class="string">"next"</span>, <span class="string">"source"</span>), <span class="string">""</span>).replace(<span class="string">"\\"</span>, <span class="string">'/'</span>))</span><br><span class="line">  count = len(files)</span><br><span class="line"></span><br><span class="line">jsCode += <span class="string">'\t], &#123; duration: %s, fade: %s &#125;);\n&#125;);'</span>%(duration, fade) <span class="keyword">if</span> len(files) &gt; <span class="number">1</span> <span class="keyword">else</span> <span class="string">'\t]);\n&#125;);'</span></span><br><span class="line"><span class="keyword">with</span> open(jsPath, <span class="string">'w'</span>, encoding=<span class="string">'utf-8'</span>) <span class="keyword">as</span> js:</span><br><span class="line">  js.write(jsCode)</span><br></pre></td></tr></table></figure>
-</div></div>]]></content>
+<div class="auto_fold">
+<figure class="highlight python"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:python</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="comment"># -*- coding:utf-8 -*-</span></span><br><span class="line"><span class="keyword">import</span> os</span><br><span class="line"><span class="keyword">import</span> sys</span><br><span class="line"><span class="keyword">import</span> time</span><br><span class="line">sysPath = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))</span><br><span class="line">jsPath = os.path.join(sysPath, <span class="string">"themes"</span>, <span class="string">'next'</span>, <span class="string">"source"</span>, <span class="string">"js"</span>, <span class="string">"src"</span>, <span class="string">"background.js"</span>)</span><br><span class="line">background_path = os.path.join(sysPath, <span class="string">"themes"</span>, <span class="string">'next'</span>, <span class="string">"source"</span>, <span class="string">"images"</span>, <span class="string">"background"</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 设置参数</span></span><br><span class="line">duration = sys.argv[<span class="number">1</span>] <span class="keyword">if</span> len(sys.argv) &gt;= <span class="number">2</span> <span class="keyword">else</span> <span class="number">60000</span></span><br><span class="line">fade = sys.argv[<span class="number">2</span>] <span class="keyword">if</span> len(sys.argv) &gt;= <span class="number">3</span> <span class="keyword">else</span> <span class="number">1500</span></span><br><span class="line"></span><br><span class="line">jsCode = <span class="string">"/* 轮播背景图片 */\n$(function () &#123;\n\t$.backstretch([\n"</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> root, dirs, files <span class="keyword">in</span> os.walk(background_path):</span><br><span class="line">  files = sorted(files, key=<span class="keyword">lambda</span> file: time.strftime(<span class="string">"%Y-%m-%d %H:%M:%S"</span>, time.localtime(os.path.getctime(os.path.join(root, file)))))</span><br><span class="line">  <span class="keyword">for</span> file <span class="keyword">in</span> files:</span><br><span class="line">    <span class="keyword">if</span> os.path.splitext(file)[<span class="number">-1</span>].lower() <span class="keyword">in</span> [<span class="string">".jpg"</span>, <span class="string">".png"</span>, <span class="string">".jpeg"</span>]:</span><br><span class="line">      jsCode += <span class="string">'\t\t"&#123;0&#125;",\n'</span>.format(os.path.join(root, file).replace(os.path.join(sysPath, <span class="string">"themes"</span>, <span class="string">"next"</span>, <span class="string">"source"</span>), <span class="string">""</span>).replace(<span class="string">"\\"</span>, <span class="string">'/'</span>))</span><br><span class="line">  count = len(files)</span><br><span class="line"></span><br><span class="line">jsCode += <span class="string">'\t], &#123; duration: %s, fade: %s &#125;);\n&#125;);'</span>%(duration, fade) <span class="keyword">if</span> len(files) &gt; <span class="number">1</span> <span class="keyword">else</span> <span class="string">'\t]);\n&#125;);'</span></span><br><span class="line"><span class="keyword">with</span> open(jsPath, <span class="string">'w'</span>, encoding=<span class="string">'utf-8'</span>) <span class="keyword">as</span> js:</span><br><span class="line">  js.write(jsCode)</span><br></pre></td></tr></table></figure></div>]]></content>
       <tags>
         <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
-    <title>emoji代码对照表</title>
+    <title>Emoji代码对照表</title>
     <url>//%F0%9D%93%AE%F0%9D%93%B6%F0%9D%93%B8%F0%9D%93%B3%F0%9D%93%B2%E4%BB%A3%E7%A0%81%E5%AF%B9%E7%85%A7%E8%A1%A8/</url>
     <content><![CDATA[<p>❤️❤️❤️</p>
 <a id="more"></a>
@@ -403,12 +580,15 @@
 <h1>更多的Unicode表情</h1>
 <p><a href="https://www.emojicopy.com/" target="_blank" rel="noopener">Copy</a></p>
 ]]></content>
+      <categories>
+        <category>writting</category>
+      </categories>
       <tags>
         <tag>writing</tag>
       </tags>
   </entry>
   <entry>
-    <title>Hexo Next 开启 emoji</title>
+    <title>Hexo Next 开启 Emoji</title>
     <url>//%F0%9D%93%97%F0%9D%93%AE%F0%9D%94%81%F0%9D%93%B8-%F0%9D%93%93%F0%9D%93%B8%F0%9D%93%AC%F0%9D%93%BE%F0%9D%93%B6%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%B8%F0%9D%93%B7/%F0%9D%93%90%F0%9D%93%AD%F0%9D%93%BF%F0%9D%93%AA%F0%9D%93%B7%F0%9D%93%AC%F0%9D%93%AE%F0%9D%93%AD%20%F0%9D%93%A2%F0%9D%93%AE%F0%9D%93%BD%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%B0%F0%9D%93%BC/%F0%9D%93%97%F0%9D%93%AE%F0%9D%94%81%F0%9D%93%B8%20%F0%9D%93%9D%F0%9D%93%AE%F0%9D%94%81%F0%9D%93%BD%20%E5%BC%80%E5%90%AF%20%F0%9D%93%AE%F0%9D%93%B6%F0%9D%93%B8%F0%9D%93%B3%F0%9D%93%B2/</url>
     <content><![CDATA[<p>Hexo 开启欢乐的 emoji 之旅 💛</p>
 <a id="more"></a>
@@ -416,13 +596,13 @@
 <h2 id="安装"><a class="header-anchor" href="#安装">¶</a>安装</h2>
 <p><code>Hexo</code> 默认的 <code>markdown</code> 渲染引擎不支持将 <code>Github emoji</code> 渲染到静态的 html 页面中，我们换一个支持 <code>emoji</code> 的引擎，再增加一个 <code>emoji</code> 插件即可.<br>
 命令行如下：</p>
-<figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="variable">$</span> npm un hexo<span class="literal">-renderer</span><span class="literal">-marked</span> -<span class="literal">-save</span></span><br><span class="line"><span class="variable">$</span> npm i hexo<span class="literal">-renderer</span><span class="literal">-markdown</span><span class="literal">-it</span> -<span class="literal">-save</span></span><br><span class="line"><span class="variable">$</span> npm install markdown<span class="literal">-it</span><span class="literal">-emoji</span> -<span class="literal">-save</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight powershell"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:powershell</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="variable">$</span> npm un hexo<span class="literal">-renderer</span><span class="literal">-marked</span> -<span class="literal">-save</span></span><br><span class="line"><span class="variable">$</span> npm i hexo<span class="literal">-renderer</span><span class="literal">-markdown</span><span class="literal">-it</span> -<span class="literal">-save</span></span><br><span class="line"><span class="variable">$</span> npm install markdown<span class="literal">-it</span><span class="literal">-emoji</span> -<span class="literal">-save</span></span><br></pre></td></tr></table></figure>
 <p>Tips：据说 <code>hexo-renderer-markdown-it</code> 的速度要比 <code>Hexo</code> 原装插件要快，而且功能更多</p>
 <h2 id="配置"><a class="header-anchor" href="#配置">¶</a>配置</h2>
 <p>完成插件安装后还需要修改 Hexo 站点配置文档 <code id="inline-purple">_config.yml</code></p>
-<figure class="highlight yaml"><figcaption><span>/_config.yml</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="attr">markdown:</span></span><br><span class="line">  <span class="attr">render:</span></span><br><span class="line">    <span class="attr">html:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">xhtmlOut:</span> <span class="literal">false</span></span><br><span class="line">    <span class="attr">breaks:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">linkify:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">typographer:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">quotes:</span> <span class="string">'“”‘’'</span></span><br><span class="line">  <span class="attr">plugins:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">markdown-it-footnote</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">markdown-it-sup</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">markdown-it-sub</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">markdown-it-abbr</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">markdown-it-emoji</span></span><br><span class="line">  <span class="attr">anchors:</span></span><br><span class="line">    <span class="attr">level:</span> <span class="number">2</span></span><br><span class="line">    <span class="attr">collisionSuffix:</span> <span class="string">'v'</span></span><br><span class="line">    <span class="attr">permalink:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">permalinkClass:</span> <span class="string">header-anchor</span></span><br><span class="line">    <span class="attr">permalinkSymbol:</span> <span class="string">¶</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight yaml"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:yaml</span>   <i class="fa fa-file-code-o" aria-hidden="true"></i>:<span>/_config.yml</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="attr">markdown:</span></span><br><span class="line">  <span class="attr">render:</span></span><br><span class="line">    <span class="attr">html:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">xhtmlOut:</span> <span class="literal">false</span></span><br><span class="line">    <span class="attr">breaks:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">linkify:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">typographer:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">quotes:</span> <span class="string">'“”‘’'</span></span><br><span class="line">  <span class="attr">plugins:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">markdown-it-footnote</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">markdown-it-sup</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">markdown-it-sub</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">markdown-it-abbr</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">markdown-it-emoji</span></span><br><span class="line">  <span class="attr">anchors:</span></span><br><span class="line">    <span class="attr">level:</span> <span class="number">2</span></span><br><span class="line">    <span class="attr">collisionSuffix:</span> <span class="string">'v'</span></span><br><span class="line">    <span class="attr">permalink:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">permalinkClass:</span> <span class="string">header-anchor</span></span><br><span class="line">    <span class="attr">permalinkSymbol:</span> <span class="string">¶</span></span><br></pre></td></tr></table></figure>
 <p>这里需要注意 <code>render:</code> 下的 <code>html:</code> 配置项，它的作用是控制 <code>Markdown</code> 渲染引擎是否转义文档中出现的 <code>html</code> 标签，默认为 <code>false</code> ，这里要设置为 <code>true</code>，否则回导致 <code>&lt;!--more--&gt;</code> 渲染失败。</p>
-<figure class="highlight diff"><figcaption><span>/_config.yml</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="deletion">- html: false </span></span><br><span class="line"><span class="addition">+ html: true</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight diff"><figcaption><span class="lang"><i class="fa fa-language" aria-hidden="true"></i>:diff</span>   <i class="fa fa-file-code-o" aria-hidden="true"></i>:<span>/_config.yml</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="deletion">- html: false </span></span><br><span class="line"><span class="addition">+ html: true</span></span><br></pre></td></tr></table></figure>
 <p><code>plugins</code>: 中的最后一项 <code>- markdown-it-emoji</code> 是手动添加的，官方 <a href="https://help.github.com/en/github/building-a-strong-community/about-wikis" target="_blank" rel="noopener"><code>Github Wiki</code></a> 中给出的配置不包含这一项，其他配置参照的 <code>Github Wiki</code> 中的默认配置，<code>hexo-renderer-markdown-it</code> 提供的其他新特性还没有一一尝试，暂时只想用它的 emoji 功能。✌️</p>
 <h2 id="使用方法"><a class="header-anchor" href="#使用方法">¶</a>使用方法</h2>
 <p>在 <a href="https://www.webfx.com/tools/emoji-cheat-sheet/" target="_blank" rel="noopener">Emoji</a> 中找到你想要的表情，然后点击复制粘贴。<br>
